@@ -80,6 +80,131 @@ const MostrarInput = (props) => {
         </label>
         <input type="submit" value="Submit" />
       </form>
+      <form name="4th" onSubmit={props.handleSubmit}>
+        <label>
+          4°(25 puntos) Nombre,código y n°Torneo:
+          <input
+            name="nombre"
+            type="text"
+            placeholder="nombre"
+            onChange={props.handleChangeNombre}
+          />
+          <input
+            name="codigo"
+            type="text"
+            placeholder="codigo"
+            onChange={props.handleChangeCodigo}
+          />
+          <input
+            name="torneo"
+            id="25"
+            type="number"
+            placeholder="torneo"
+            onChange={props.handleChangeTorneo}
+          />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+      <form name="5th" onSubmit={props.handleSubmit}>
+        <label>
+          5°(15 puntos) Nombre,código y n°Torneo:
+          <input
+            name="nombre"
+            type="text"
+            placeholder="nombre"
+            onChange={props.handleChangeNombre}
+          />
+          <input
+            name="codigo"
+            type="text"
+            placeholder="codigo"
+            onChange={props.handleChangeCodigo}
+          />
+          <input
+            name="torneo"
+            id="15"
+            type="number"
+            placeholder="torneo"
+            onChange={props.handleChangeTorneo}
+          />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+      <form name="5th" onSubmit={props.handleSubmit}>
+        <label>
+          5°(15 puntos) Nombre,código y n°Torneo:
+          <input
+            name="nombre"
+            type="text"
+            placeholder="nombre"
+            onChange={props.handleChangeNombre}
+          />
+          <input
+            name="codigo"
+            type="text"
+            placeholder="codigo"
+            onChange={props.handleChangeCodigo}
+          />
+          <input
+            name="torneo"
+            id="15"
+            type="number"
+            placeholder="torneo"
+            onChange={props.handleChangeTorneo}
+          />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+      <form name="5th" onSubmit={props.handleSubmit}>
+        <label>
+          5°(15 puntos) Nombre,código y n°Torneo:
+          <input
+            name="nombre"
+            type="text"
+            placeholder="nombre"
+            onChange={props.handleChangeNombre}
+          />
+          <input
+            name="codigo"
+            type="text"
+            placeholder="codigo"
+            onChange={props.handleChangeCodigo}
+          />
+          <input
+            name="torneo"
+            id="15"
+            type="number"
+            placeholder="torneo"
+            onChange={props.handleChangeTorneo}
+          />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+      <form name="5th" onSubmit={props.handleSubmit}>
+        <label>
+          5°(15 puntos) Nombre,código y n°Torneo:
+          <input
+            name="nombre"
+            type="text"
+            placeholder="nombre"
+            onChange={props.handleChangeNombre}
+          />
+          <input
+            name="codigo"
+            type="text"
+            placeholder="codigo"
+            onChange={props.handleChangeCodigo}
+          />
+          <input
+            name="torneo"
+            id="15"
+            type="number"
+            placeholder="torneo"
+            onChange={props.handleChangeTorneo}
+          />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
     </div>
   );
 };

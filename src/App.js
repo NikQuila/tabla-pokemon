@@ -112,6 +112,7 @@ class App extends Component {
       // tabla inical
 
       <div className="tabla-posiciones">
+        <h3>Rellenar una linea de formulario y luego submit</h3>
         <MostrarInput
           handleChangeNombre={this.handleChangeNombre}
           handleChangeCodigo={this.handleChangeCodigo}
