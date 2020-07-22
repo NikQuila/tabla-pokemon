@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1822fa63644100b22f4f937d43e0fc6a",
+    "revision": "8c7f5a2e8f3d01dc700b921b8e886090",
     "url": "/tabla-pokemon/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tabla-pokemon/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "88084ae5c0bd520532fb",
-    "url": "/tabla-pokemon/static/css/main.27fd15f6.chunk.css"
+    "revision": "38ac23866a5781d5d805",
+    "url": "/tabla-pokemon/static/css/main.17349845.chunk.css"
   },
   {
     "revision": "bfef71cfd6c94e510dae",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tabla-pokemon/static/js/2.61b604c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88084ae5c0bd520532fb",
-    "url": "/tabla-pokemon/static/js/main.54bece5f.chunk.js"
+    "revision": "38ac23866a5781d5d805",
+    "url": "/tabla-pokemon/static/js/main.221fa7b0.chunk.js"
   },
   {
     "revision": "308bc9cccbce75e64f86",
